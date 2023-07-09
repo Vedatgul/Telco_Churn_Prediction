@@ -4,7 +4,7 @@
 
 It is  desired to carry out a machine learning project regarding the prices of different types of houses by using the data set containing the features and house prices of each house.
 
-## Table of Contents 
+##  Table of Contents 
 1. Examine the Dataset
 
 2. Data Preparation
